@@ -1,57 +1,78 @@
-[cite_start]<h1 align="center">Olá, eu sou Silvio Pereira Lopes Neto 👋</h1> 
+<h1 align="center">Olá, eu sou Silvio Pereira Lopes Neto 👋</h1>
 
 <p align="center">
-  [cite_start]<i>Desenvolvedor Backend com foco em Java, Microsserviços, Arquitetura Hexagonal e IA Aplicada.</i> [cite: 143]
+  <i>Desenvolvedor Backend Java Jr. | Spring Boot | Microsserviços | Arquitetura Hexagonal | IA Aplicada</i>
 </p>
 
 ---
 
 ### 🚀 Sobre Mim
 
-- [cite_start]🎓 Graduando em Sistemas para Internet pela FATEC Rubens Lara [cite: 130, 131, 174]
-- [cite_start]💼 Desenvolvedor Backend com atuação em ambiente de produção real (Java, Spring Boot, Kotlin) [cite: 145]
-- [cite_start]🤖 Uso estratégico de IA (Claude Code, Copilot, GPT, Gemini) integrado ao fluxo de desenvolvimento para acelerar entregas [cite: 147]
-- [cite_start]💡 Foco em Arquitetura Hexagonal, APIs REST, mensageria (Kafka) e cultura DevOps (CI/CD, ArgoCD, GitOps) [cite: 146, 173]
+- 🎓 Graduando em Tecnologia em Sistemas para Internet pela FATEC Rubens Lara.
+- 💼 Desenvolvedor Backend com atuação em ambiente de produção real no setor financeiro (fintech).
+- 🤖 Uso estratégico de IA (Claude Code, GitHub Copilot, GPT, Gemini) integrado ao fluxo de desenvolvimento para acelerar entregas e construir soluções autônomas.
+- 💡 Foco no desenvolvimento de microsserviços críticos aplicando Arquitetura Hexagonal (Domain, Application, Infrastructure).
+- ⚙️ Ciclo completo de DevOps: CI/CD com GitHub, ArgoCD, GitOps, validação no SonarQube e monitoramento no Grafana.
 
 ---
 
-### 🧰 Minha Stack
+### 🧰 Tech Stack Completa
 
-<div style="display: inline_block"><br>
+<details open>
+<summary><b>Linguagens & Frameworks</b></summary>
+<br>
+<div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Salesforce Apex" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
+  <img align="center" alt="Spring Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Grafana" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
+</details>
+
+<details open>
+<summary><b>Banco de Dados, Ferramentas & DevOps</b></summary>
+<br>
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="ArgoCD" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg">
+  <img align="center" alt="SonarQube" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg">
+  <img align="center" alt="Grafana" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="Swagger" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">
+  <img align="center" alt="IntelliJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+</div>
+</details>
 
 ---
 
 ### 💻 Projetos em Destaque
 
-* [cite_start]**Ragnarok Core:** Simulador RPG com Arquitetura Hexagonal estrita, Spring Boot, PostgreSQL e pipeline ETL em Python para importação de milhares de monstros e drops. [cite: 177, 178, 179, 180, 181]
-* [cite_start]**Construction Rental API:** Motor de Decisão para Locação usando Java 17 e Spring Boot 3, com State Machine para controle de ativos e precificação dinâmica. [cite: 183, 184, 185]
-* [cite_start]**NEXUS.hub:** Dashboard financeiro em React 18 e TypeScript com dados de mercado em tempo real e análise com IA. [cite: 188, 190, 191]
+* **Ragnarok Core (Privado):** Simulador RPG completo com Arquitetura Hexagonal estrita em Java/Spring Boot. Engine de batalha, sistema de loot RNG baseado em dados reais, sistema de skills e pipeline ETL em Python para importação massiva de mapas, monstros e drops.
+* **Construction Rental API (Público):** API RESTful enterprise para gestão de ativos e locação. Implementa State Machine para controle de ciclo de vida e precificação dinâmica. [Acessar Repositório](https://github.com/SilvioPLopes/construction-rental).
+* **NEXUS.hub (Em desenvolvimento):** Dashboard Financeiro em React 18/TypeScript com análise de dados e notícias do mercado em tempo real processadas por IA.
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  [cite_start]<img height="160em" src="https://github-readme-stats.vercel.app/api?username=silvioplopes&show_icons=true&theme=radical&count_private=true"/> 
-  [cite_start]<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvioplopes&layout=compact&langs_count=7&theme=radical"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silvioplopes&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvioplopes&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
 ### 🌐 Contato
 
-- [cite_start]📧 Email: silviopln@hotmail.com 
-- [cite_start]💼 [LinkedIn](https://linkedin.com/in/silvio-pereira-lopes) 
-- [cite_start]💻 [GitHub](https://github.com/silvioplopes) 
+- 📧 Email: silviopln@hotmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/silvio-pereira-lopes)
 
 ---
