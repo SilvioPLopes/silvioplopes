@@ -55,7 +55,7 @@
 
 ### 💻 Projetos em Destaque
 
-* **Ragnarok Core (Privado):** Simulador RPG completo com Arquitetura Hexagonal estrita em Java/Spring Boot. Engine de batalha, sistema de loot RNG baseado em dados reais, sistema de skills e pipeline ETL em Python para importação massiva de mapas, monstros e drops.  [Acessar Repositório](https://github.com/SilvioPLopes/construction-rental(https://github.com/SilvioPLopes/Ragnarok-simulator).
+* **Ragnarok Core (Privado):** Simulador RPG completo com Arquitetura Hexagonal estrita em Java/Spring Boot. Engine de batalha, sistema de loot RNG baseado em dados reais, sistema de skills e pipeline ETL em Python para importação massiva de mapas, monstros e drops.  [Acessar Repositório](https://github.com/SilvioPLopes/Ragnarok-simulator).
 * **Construction Rental API (Público):** API RESTful enterprise para gestão de ativos e locação. Implementa State Machine para controle de ciclo de vida e precificação dinâmica. [Acessar Repositório](https://github.com/SilvioPLopes/construction-rental).
 * **NEXUS.hub (Em desenvolvimento):** Dashboard Financeiro em React 18/TypeScript com análise de dados e notícias do mercado em tempo real processadas por IA.
 
