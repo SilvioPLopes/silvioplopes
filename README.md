@@ -65,7 +65,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HenriqueRDF&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueRDF&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophies" />
 </div>
 
 ---
