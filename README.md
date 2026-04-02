@@ -64,7 +64,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HenriqueRDF&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=SilvioPLopes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak" />
 </div>
 
 ---
