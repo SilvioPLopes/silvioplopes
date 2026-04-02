@@ -73,5 +73,6 @@
 
 - 📧 Email: silviopln@hotmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/silvio-pereira-lopes)
+- 💡 [Portfolio](https://silvioplopes.github.io/) 
 
 ---
